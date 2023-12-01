@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/auto-edit-lolz-post-2.iml" filepath="$PROJECT_DIR$/.idea/auto-edit-lolz-post-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.iml" filepath="$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.test.iml" filepath="$PROJECT_DIR$/.idea/modules/auto-edit-lolz-post.test.iml" />
     </modules>
   </component>
 </project>
